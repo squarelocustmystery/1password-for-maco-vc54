@@ -1,4 +1,4 @@
-# 
+# smart 1Password for macOS Helper | network-monitoring + password-sharing is the best 1Password for macOS helper, featuring network-monitoring and password-sharing. Secure,
 
 
 
